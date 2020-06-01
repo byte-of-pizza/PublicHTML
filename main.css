@@ -1,10 +1,10 @@
 /*remember semi colons!!*/
 
 body{
-	font-family: arial, sans-serif;
+	font-family: roboto, sans-serif;
 }
 header {
-	background-color:#00e1ff;
+	background-color:##cc2f04;
 	padding:10px;
 	text-align:center;
 	}
@@ -14,7 +14,7 @@ h1{
 }
 
 nav a{
-	background-color:hotpink;
+	background-color:#cc2f04;
 	margin: 20px;
 	padding: 5px 10px;
 	border-radius: 5px;
